@@ -9,8 +9,11 @@ Go CMD and execute these commands:
 
 You have to create databases in myql as per requirements.
 Database name: triplife
+
 table1: details
+
 table2: payment
+
 #create tables accordingly given in the database() function
 #save all the files in one folder and run triplife.py file.
 
